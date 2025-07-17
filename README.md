@@ -11,7 +11,7 @@
   В ноутбуке представлены точные аналитические выражения преобразований Фурье для различных вейвлет-функций, включая Haar, Mexican Hat и Morlet.  
   Подробно рассматриваются методы интегрирования, интерпретация в частотной области и применение для дальнейшей обработки сигналов.
 
-  - [Convolution and Spectral Density.ipynb](https://github.com/VladimirNikiforovv/Theory-of-Fourier-transforms-wavelets-and-convolution-some-applications-and-practical-implementation/blob/main/convolution_and_spectral_density_analytics_and_numerical_representation.ipynb) — 
+- [Convolution and Spectral Density.ipynb](https://github.com/VladimirNikiforovv/Theory-of-Fourier-transforms-wavelets-and-convolution-some-applications-and-practical-implementation/blob/main/convolution_and_spectral_density_analytics_and_numerical_representation.ipynb) — 
   Теория и реализация свёртки и спектральной плотности сигналов с применением Python.
 
 - [Windows_chec.ipynb](https://github.com/VladimirNikiforovv/Theory-of-Fourier-transforms-wavelets-and-convolution-some-applications-and-practical-implementation/blob/main/windows_chec.ipynb) — 
